@@ -10,6 +10,7 @@ To write a program to predict the type of species of the Iris flower using the S
 1.Import required libraries.
 
 2.create a dataset.
+
 3.Separate input features (X) and target (y).
 
 4.Split data into training and testing sets.
